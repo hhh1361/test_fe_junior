@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test_fe_junior/static/css/main.8e05381d.chunk.css",
+    "main.js": "/test_fe_junior/static/js/main.b3241693.chunk.js",
+    "main.js.map": "/test_fe_junior/static/js/main.b3241693.chunk.js.map",
+    "runtime-main.js": "/test_fe_junior/static/js/runtime-main.05d960c7.js",
+    "runtime-main.js.map": "/test_fe_junior/static/js/runtime-main.05d960c7.js.map",
+    "static/js/2.1b9bb9a2.chunk.js": "/test_fe_junior/static/js/2.1b9bb9a2.chunk.js",
+    "static/js/2.1b9bb9a2.chunk.js.map": "/test_fe_junior/static/js/2.1b9bb9a2.chunk.js.map",
+    "index.html": "/test_fe_junior/index.html",
+    "precache-manifest.512e5af173cedea4951b1a062a3301cb.js": "/test_fe_junior/precache-manifest.512e5af173cedea4951b1a062a3301cb.js",
+    "service-worker.js": "/test_fe_junior/service-worker.js",
+    "static/css/main.8e05381d.chunk.css.map": "/test_fe_junior/static/css/main.8e05381d.chunk.css.map",
+    "static/media/slider.css": "/test_fe_junior/static/media/lorem1.2c63e4fe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05d960c7.js",
+    "static/js/2.1b9bb9a2.chunk.js",
+    "static/css/main.8e05381d.chunk.css",
+    "static/js/main.b3241693.chunk.js"
+  ]
+}
